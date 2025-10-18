@@ -1,1 +1,1 @@
-# odin-recipes
+I am putting to use all of the .html functions that I have learned to date. I will also be recording the project in a github repository via git. 
